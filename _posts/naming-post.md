@@ -1,4 +1,8 @@
-    ># NMAAHC Object Number and File Name Conventions
+------
+layout: post
+------
+
+># NMAAHC Object Number and File Name Conventions
     ># Time-Based Media  
 
     <br/>
