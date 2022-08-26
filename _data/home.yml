@@ -12,30 +12,43 @@ project_entries:
   - title: NMAAHC Naming Guidelines 
     url: 
     # overview-post
-    desc: NMAAHC Naming Guidelines for analog & digital time-based media object, their accessories and associated derivatives.
+    desc: NMAAHC Naming Guidelines for analog & digital time-based media objects, their accessories and associated derivatives.
+    This covers both NMAAHC Collection and Study Collection objects.
     # This is an example project, configured in _data/home.yml
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: NMAAHC Rights Research
+    url: 
+    # overview-post
+    desc: NMAAHC Rights Research roadmap for motion picture and sound works.
+    # Projects are shown in card layout
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: NMAAHC AV Microservices
+    url: 
+    # overview-post
+    desc: 
+    # You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Camera Card processing
+    url: 
+    # overview-post
+    desc: 
+    # This project uses highlight markup, configured in _data/home.yml
+    highlight: 
+    # WIP
 
   - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    url: 
+    # overview-post
+    desc: 
+    # Moonwalk also has horizontal list (used in header and footer)
+    highlight: 
+    # WIP
 
   - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    url: 
+    # overview-post
+    desc: 
+    # It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
