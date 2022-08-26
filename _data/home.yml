@@ -9,9 +9,11 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: NMAAHC Naming Guidelines 
+    url: 
+    # overview-post
+    desc: NMAAHC Naming Guidelines for analog & digital time-based media object, their accessories and associated derivatives.
+    # This is an example project, configured in _data/home.yml
 
   - title: Project 2
     url: overview-post
