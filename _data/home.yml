@@ -12,8 +12,7 @@ project_entries:
   - title: NMAAHC Naming Guidelines 
     url: naming-post
     # overview-post
-    desc: NMAAHC Naming Guidelines for analog & digital time-based media objects, their accessories and associated derivatives.
-    This covers both NMAAHC Collection and Study Collection objects.
+    desc: NMAAHC Naming Guidelines for analog & digital time-based media objects, their accessories and associated derivatives. This covers both NMAAHC Collection and Study Collection objects.
     # This is an example project, configured in _data/home.yml
 
   - title: NMAAHC Rights Research
