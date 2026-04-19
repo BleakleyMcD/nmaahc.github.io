@@ -1,3 +1,15 @@
+# MkDocs build output
+/site/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Legacy Jekyll (still honored for _jekyll_arch/)
 *.gem
 .bundle
 .jekyll-cache

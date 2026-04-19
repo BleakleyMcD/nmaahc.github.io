@@ -1,0 +1,58 @@
+site_name: NMAAHC Time-Based Media Documentation
+site_description: >
+  Documentation of audiovisual and time-based media processes at the
+  Smithsonian National Museum of African American History and Culture.
+site_url: https://bleakleymcd.github.io/nmaahc.github.io/
+repo_url: https://github.com/BleakleyMcD/nmaahc.github.io
+repo_name: BleakleyMcD/nmaahc.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - Conventions:
+    - File naming: conventions/naming.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BleakleyMcD/nmaahc.github.io
