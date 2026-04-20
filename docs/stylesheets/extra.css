@@ -1,0 +1,12 @@
+/* Soft-wrap code blocks so long lines don't force horizontal scroll */
+.md-typeset pre > code,
+.md-typeset .highlight pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Break long filenames / object numbers inside table cells */
+.md-typeset table td,
+.md-typeset table th {
+  word-break: break-word;
+}
